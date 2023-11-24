@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextconnect-dev-111359-authRole",
+      "UnauthRoleArn": "arn:aws:iam::915829456962:role/amplify-nextconnect-dev-111359-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::915829456962:role/amplify-nextconnect-dev-111359-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-nextconnect-dev-111359-deployment",
+      "UnauthRoleName": "amplify-nextconnect-dev-111359-unauthRole",
+      "StackName": "amplify-nextconnect-dev-111359",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:915829456962:stack/amplify-nextconnect-dev-111359/e58da8d0-8a7f-11ee-ac08-025489204dd6",
+      "AmplifyAppId": "d1kegglvplc03q"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1kegglvplc03q",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
